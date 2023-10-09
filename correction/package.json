@@ -1,0 +1,16 @@
+{
+  "name": "correction",
+  "version": "1.0.0",
+  "description": "Créer une API REST avec Express.js en utilisant un fichier users.json fourni comme source de données. Implémentez des routes pour la récupération des données avec des filtres spécifiques, et préparez des routes pour la mise à jour et la suppression (sans les implémenter).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fuse.js": "^6.6.2"
+  }
+}
